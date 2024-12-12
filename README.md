@@ -42,6 +42,7 @@ Outlier elimination is useful because it increases model performance, facilitate
 - Using z-score
  
 The cleaned DataFrame has 0 rows and 48 columns. Z score is too aggressive and removes all rows from DataFrame, that means there are no samples left in the dataset to train or test model.
+
 To solve this:
 - Display class distribution to provide an overview of class distribution and the impact of outlier removal.
 - Use class adaptive Z-score thresholds based on frequency to avoid removing true positive outliers and applying less permissive thresholds for rare attack classes and more permissive thresholds for common attacks.
