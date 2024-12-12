@@ -58,3 +58,4 @@ The purpose of this step is to improve model performance by standardize features
 Evaluate the performance for each classifier using metrics like: accuracy, recall, precision, and F1 score.
 
 ## Results
+![image alt](https://github.com/safaais/RT-IoT2023/blob/main/ClassifierComparison.png?raw=true)
