@@ -21,6 +21,12 @@ Here’re the necessary steps to implement classification model to predict attac
 - Train and Evaluate Classifier.
 
 
+Add Class Weighting to avoid imbalanced classes issue
+
+![image alt]()
+
+
+
 ## Results.
 ![image alt](https://github.com/safaais/RT-IoT2023/blob/main/ClassifierComparison.png?raw=true)
 
