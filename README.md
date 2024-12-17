@@ -23,7 +23,7 @@ Here’re the necessary steps to implement classification model to predict attac
 
 Add Class Weighting to avoid imbalanced classes issue
 
-![image alt]()
+![image alt](https://github.com/safaais/RT-IoT2023/blob/3f2613bdaaf454709fafa6508683814b62c82b86/ClassWeighting.png)
 
 
 
