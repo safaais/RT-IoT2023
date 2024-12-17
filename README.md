@@ -23,3 +23,8 @@ Here’re the necessary steps to implement classification model to predict attac
 
 ## Results.
 ![image alt](https://github.com/safaais/RT-IoT2023/blob/main/ClassifierComparison.png?raw=true)
+
+
+Results showed poor performance for Gradient Boosting classifier.
+Thererfor, remove Gradient Boosting classifier and add Voting Classifier which uses the outputs of several base classifiers in an ensemble form to arrive a decision on the true positive and negative results.
+![image alt]()
